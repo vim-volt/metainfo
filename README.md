@@ -1,4 +1,4 @@
-# metainfo
+# Metainfo
 
 See [#1](https://github.com/vim-volt/metainfo/issues/1) discussion
 
